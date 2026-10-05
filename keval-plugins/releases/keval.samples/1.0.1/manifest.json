@@ -1,0 +1,13 @@
+{
+  "id": "keval.samples",
+  "version": "1.0.1",
+  "engine": ">=1.0.0 <2",
+  "minimumEngine": "1.0.0",
+  "description": "Sample smoke tests for public demo apps (web, mobile, desktop) with the skills, tools, profiles, fixtures and KB files they use, plus the demos' published credentials.",
+  "releaseNotes": "First release from the public AI Vision plugin feed.",
+  "publishedAt": "2026-10-05T07:23:42.991Z",
+  "packageUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/keval.samples/1.0.1/files.json",
+  "sha256": "167ceba98a87d877a1b3193f254eebf5d3d0d6746a882382c0383c9150856031",
+  "kid": "dev",
+  "signature": "qzG7ybzc3v3SeF8Zn/tiFxFyDn/+NfPPN/nyk5IQCETgkMPKYOgb1J8USfT0t5ft31WJP46/OWuZMo32QvNWCQ=="
+}

@@ -1,0 +1,13 @@
+{
+  "id": "katalon.docs-core",
+  "version": "1.0.1",
+  "engine": ">=1.0.0 <2",
+  "minimumEngine": "1.0.0",
+  "description": "In-app Docs: how to use the platform, what the terms mean, and the workflows a new operator needs on day one.",
+  "releaseNotes": "First release from the public AI Vision plugin feed.",
+  "publishedAt": "2026-10-05T07:23:41.427Z",
+  "packageUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/katalon.docs-core/1.0.1/files.json",
+  "sha256": "8fd63169402fc0c2ec5989545271003990d930ca1fc71174d9dd4465ed8d4876",
+  "kid": "dev",
+  "signature": "vTXv4IObDB1PJWUQxXwkuNAd90beXmVARpIkwg+AxLVOWseMWDB0p/1gG9U6DnQbixB7EhSTM5abGZEHXacVCQ=="
+}

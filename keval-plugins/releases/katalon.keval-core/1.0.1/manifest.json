@@ -1,0 +1,13 @@
+{
+  "id": "katalon.keval-core",
+  "version": "1.0.1",
+  "engine": ">=1.0.0 <2",
+  "minimumEngine": "1.0.0",
+  "description": "How Keval works on every platform: authoring, runs, walks, skills, triage and long tasks.",
+  "releaseNotes": "First release from the public AI Vision plugin feed.",
+  "publishedAt": "2026-10-05T07:23:39.908Z",
+  "packageUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/katalon.keval-core/1.0.1/files.json",
+  "sha256": "932113fa5170ded4670cab55a6bb162d182953b464be7fe655097d5fcd4d3226",
+  "kid": "dev",
+  "signature": "MjtRYl5K3e2B2QnXahEIc/j+XBo+RfUrsLVznuLWudpbMntfd8MLHBTjYbs4PFR4in4Y5Gh6Cj3dC+7lw35aAA=="
+}
