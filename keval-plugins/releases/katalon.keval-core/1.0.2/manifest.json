@@ -1,0 +1,13 @@
+{
+  "id": "katalon.keval-core",
+  "version": "1.0.2",
+  "engine": ">=1.0.0 <2",
+  "minimumEngine": "1.0.0",
+  "description": "How Keval works on every platform: authoring, runs, walks, skills, triage and long tasks.",
+  "releaseNotes": "Adds guidance for replaying a recorded script and for script lanes.",
+  "publishedAt": "2026-10-13T09:04:29.811Z",
+  "packageUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/katalon.keval-core/1.0.2/files.json",
+  "sha256": "c464a97bfa5c2cd4a2bd569b5da894a10d70e7d100accbdef9abaf73ed2d3776",
+  "kid": "dev",
+  "signature": "/7UEqKhypE4bKRAl1gMZZnl8RtVRYTMaiJZCz8T0e+DmVmy/axwvCt1rPL14cvuXpYHrEnfep5XLruWmtvIhCw=="
+}
