@@ -1,0 +1,13 @@
+{
+  "id": "katalon.docs-core",
+  "version": "1.0.2",
+  "engine": ">=1.0.0 <2",
+  "minimumEngine": "1.0.0",
+  "description": "In-app Docs: how to use the platform, what the terms mean, and the workflows a new operator needs on day one.",
+  "releaseNotes": "Devices page lists Android TV instead of HarmonyOS; Keval pages get their own Keval Agent section.",
+  "publishedAt": "2026-10-13T09:43:30.685Z",
+  "packageUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/katalon.docs-core/1.0.2/files.json",
+  "sha256": "c6a43dc2ad9d20c1a2dfa80884c0f729c492dbce6861280c5eb79b427ca3c556",
+  "kid": "dev",
+  "signature": "A7F/zvN7wbUgMoQBt9xlmD8mxEu37M20sm8wq76E2XN4RYnRxyuwMc7qt72UZhgwBOGk3aLSsL5Z6NqX1NseAg=="
+}

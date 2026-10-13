@@ -1,6 +1,6 @@
 {
   "channel": "stable",
-  "generatedAt": "2026-10-13T09:04:29.815Z",
+  "generatedAt": "2026-10-13T09:43:30.690Z",
   "plugins": {
     "katalon.keval-core": {
       "version": "1.0.2",
@@ -9,9 +9,9 @@
       "minimumEngine": "1.0.0"
     },
     "katalon.docs-core": {
-      "version": "1.0.1",
-      "manifestUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/katalon.docs-core/1.0.1/manifest.json",
-      "sha256": "da91116d272d7d20660a7c8f76399da4e8f7dad2827dda424210213402c4c9f8",
+      "version": "1.0.2",
+      "manifestUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/katalon.docs-core/1.0.2/manifest.json",
+      "sha256": "e12a46b88d0f095a6afd4b9a86bcaeab64caf379d5cd3d5757fa0ff7e7b359fc",
       "minimumEngine": "1.0.0"
     },
     "keval.samples": {
@@ -22,5 +22,5 @@
     }
   },
   "kid": "dev",
-  "signature": "K3Yg/cna+d2yZRBqZfXo74lcoo0fbMcvaJn5WnJGfZMQPfdqNXVi5DX/8S/69najCoOfFzrt1vV/WuSSOQeRDg=="
+  "signature": "y7gK5qce9n5kkrVxo1ChEnz6kxbKT9IXfCTXPC6dfKb/vSCtGiME3cY0Pm0aZ+p7EE7QL5V275Oqo9F4JrZ4BQ=="
 }
