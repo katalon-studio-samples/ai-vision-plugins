@@ -1,0 +1,13 @@
+{
+  "id": "keval.samples",
+  "version": "1.0.3",
+  "engine": ">=1.0.0 <2",
+  "minimumEngine": "1.0.0",
+  "description": "Sample smoke tests for public demo apps (web, mobile, desktop) with the skills, tools, profiles, fixtures and KB files they use, plus the demos' published credentials.",
+  "releaseNotes": "Two web profiles for the in-testing lanes: sample-web-ui-script (write and replay UI scripts) and sample-web-api-lane (build and run API flows on the-internet, with form sign-in from the vault).",
+  "publishedAt": "2026-10-13T09:52:24.582Z",
+  "packageUrl": "https://raw.githubusercontent.com/katalon-studio-samples/ai-vision-plugins/main/keval-plugins/releases/keval.samples/1.0.3/files.json",
+  "sha256": "a1dbb0595be01267fe040d9deab95d9620d6cdef20f92a0ceb628419341e30e8",
+  "kid": "dev",
+  "signature": "3/fQ+WjCHCZZSoeDGStEOVlGjRvwMf2RCQD+bpvBu1s08un5SfYnSpWzfl7BoyLVyFEe5dzDT+oTvMM+q040CQ=="
+}
